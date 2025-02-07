@@ -54,7 +54,7 @@ export default function FAQ() {
             id="panel1d-header"
           >
             <Typography component="span" variant="subtitle2">
-              What does 'Ezer' mean and how do you pronounce it?
+              What does Ezer mean and how do you pronounce it?
             </Typography>
           </AccordionSummary>
           <AccordionDetails>
@@ -63,11 +63,11 @@ export default function FAQ() {
               gutterBottom
               sx={{ maxWidth: { sm: "100%", md: "70%" } }}
             >
-              Great question! 'Ezer' is a Hebrew word for 'Helper'. We chose
-              this name because it closely relates to what Ezer will do for
-              students, which is to help! That said, it's Hebrew pronounciation
-              might be hard for everyday folk to pronounce so we chose to
-              pronounce it as 'ee-zer'.
+              Great question! &apos;Ezer&apos; is a Hebrew word for
+              &apos;Helper&apos;. We chose this name because it closely relates
+              to what Ezer will do for students, which is to help! That said,
+              it&apos;s Hebrew pronunciation might be hard for everyday folk to
+              pronounce, so we chose to pronounce it as &apos;ee-zer&apos;.
             </Typography>
           </AccordionDetails>
         </Accordion>

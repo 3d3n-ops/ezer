@@ -86,9 +86,9 @@ export default function Pricing() {
           Pricing
         </Typography>
         <Typography variant="body1" sx={{ color: "rgb(216, 216, 216)" }}>
-          We know, we know. "I'm a broke college student". But this is an
-          investment to your education and overall success. Plus, Ezer is
-          ‘ez-pensive’ 💅💸
+          We know, we know. &quot;I&apos;m a broke college student&quot;. But
+          this is an investment in your education and overall success. Plus,
+          Ezer is &lsquo;ez-pensive&rsquo; 💅💸
         </Typography>
       </Box>
       <Grid

@@ -10,7 +10,6 @@ import TextField from "@mui/material/TextField";
 import Typography from "@mui/material/Typography";
 import FacebookIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import TwitterIcon from "@mui/icons-material/X";
 
 function Copyright() {
   return (
@@ -182,7 +181,7 @@ export default function Footer() {
           <IconButton
             color="inherit"
             size="small"
-            href="https://github.com/mui"
+            href="https://github.com/3d3n-ops/ezer"
             aria-label="GitHub"
             sx={{ alignSelf: "center" }}
           >
